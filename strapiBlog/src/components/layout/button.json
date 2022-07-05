@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_layout_buttons",
+  "info": {
+    "displayName": "Button",
+    "icon": "bug"
+  },
+  "options": {},
+  "attributes": {
+    "Label": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}
